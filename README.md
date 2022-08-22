@@ -13,7 +13,6 @@
 
 <p align="center">
   
-  진행중 '22.07.22 ~
   
 </p>
 
@@ -21,9 +20,9 @@
 
 ## 기술 스택
 
-| SpringBoot | MySQL |  Spring data JPA   |  PostMan   | JMeter |
+| SpringBoot | MySQL |  Spring data JPA   |  PostMan   |  |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
-|   ![sb]    |   ![my]    |   ![dj]    |   ![pos]    |   ![jm]    |
+|   ![sb]    |   ![my]    |   ![dj]    |   ![pos]    |       |
 
 <br>
 
